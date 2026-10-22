@@ -1,7 +1,7 @@
 # Политика конфиденциальности
 
 **Приложение:** Схемы Янга
-**Последнее обновление:** 25 ноября 2025
+**Последнее обновление:** 22 октября 2026
 
 ---
 
@@ -34,6 +34,16 @@
 ## 3. Передача данных третьим лицам
 
 Мы **НЕ передаем** никакие данные третьим лицам, так как мы их не собираем.
+
+**Покупки.** Полный отчёт продаётся как разовая покупка внутри приложения. Оплату
+целиком проводит Apple через App Store по своей политике конфиденциальности; мы не
+получаем ни платёжных данных, ни Apple ID. Приложение только спрашивает у App Store,
+куплен ли полный отчёт. Ответы теста при покупке никуда не передаются.
+
+*Purchases. The full report is a one-time in-app purchase processed entirely by Apple
+through the App Store. We never receive your payment details or Apple ID; the app only
+asks the App Store whether the full report was purchased. Your test answers are never
+sent anywhere.*
 
 ## 4. Работа офлайн
 
